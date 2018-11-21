@@ -1,6 +1,6 @@
 import _ from 'lodash';
 let numbers = []
-let sum = 0;
+
 function addRandomNum() {
       const mainEl = document.getElementById('main');
       let p = document.createElement('p')
